@@ -1,0 +1,2 @@
+﻿Source Schema,Source Table,Source Field,Target Schema,Target Table,Target Field,Target Type (optional)
+XVL78371,CLIENTES,NOME,XVL78371,PEDIDOS,VALOR,Decimal
